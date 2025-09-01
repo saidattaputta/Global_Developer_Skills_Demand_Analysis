@@ -16,12 +16,11 @@ Key Highlights:
 
 ## 🛠️ Tools & Technologies  
 - **Python**: Data wrangling, cleaning, and visualization  
-  - pandas, numpy, matplotlib, seaborn, Beautiful Soup, SQLite3
+  - pandas, numpy, matplotlib, seaborn, Beautiful Soup, SQLite3, requests
 - **Google Looker Studio**: Interactive dashboards  
 - **Data Source**: [Stack Overflow Developer Survey 2024](https://survey.stackoverflow.co/2024/)  
 
 ---
-
 
 ## 📎 Deliverables  
 
@@ -45,11 +44,13 @@ Key Highlights:
 
 ## 📊 Key Findings  
 
-- **Programming Languages**: JavaScript, Python, and SQL dominate current usage.  
+- **Programming Languages**: JavaScript (65%), Python (49%), SQL (43%) dominate current usage. 
 - **Emerging Languages**: Strong interest in Rust, TypeScript, and Kotlin for future adoption.  
-- **Databases**: PostgreSQL leads; DynamoDB, MongoDB, and ClickHouse are rising.  
-- **Platforms**: AWS, Azure, and GCP dominate cloud usage and interest.  
-- **Demographics**: Majority are aged 25–44, with bachelor’s/master’s degrees, across US, India, and Europe.  
+- **Databases**: PostgreSQL leads with 28% adoption, followed by MySQL (22%) and SQLite (18%).  
+- **Platforms**: AWS (52%), Microsoft Azure (31%), Google Cloud (28%) control the market.
+- **Web Frameworks**: React.js and Node.js maintain strong developer preference. 
+- **Demographics**: Majority are aged 25–44, with bachelor’s/master’s degrees, across US, India, and Europe.
+- **Education**:47% hold Bachelor's degrees, 23% have Master's degrees, 15% are self-taught professionals.
 ---
 
 ## 🚀 Implications  
@@ -58,10 +59,18 @@ Key Highlights:
 - **For HR & Training**: Align workforce development with upcoming trends.  
 
 ---
+##📊 Project Stats
+- 📈 Survey Responses: 65,000+
+- 🌍 Countries Represented: 185
+- 📊 Visualizations Created: 25+
+- 🔍 Analysis Dimensions: 15+
+- 📱 Interactive Dashboards: 3
+
+---
 
 ## 📌 Author  
 👤 **Sai Datta Putta**  
 - 📧 Email: saidattaputta@gmail.com  
-- 💼 [LinkedIn](#) | 💻 [GitHub](#)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/sai-datta-putta-b99119330/) | 💻 [GitHub](http://github.com/saidattaputta)  
 
 ---
