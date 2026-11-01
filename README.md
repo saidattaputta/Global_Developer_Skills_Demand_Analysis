@@ -12,6 +12,37 @@ Summarize technology adoption and developer preferences from survey responses, a
 
 The original project documentation describes a survey with 65,000+ responses from 185 countries. Check the survey's official methodology and filtered response counts before comparing the project's figures with other analyses.
 
+## Key Findings Reported in the Existing Project Documentation
+
+The original lowercase readme.md records the following survey findings:
+
+| Area | Reported finding |
+|---|---|
+| Programming-language usage | JavaScript 65%, Python 49%, SQL 43% |
+| Database usage | PostgreSQL 28%, MySQL 22%, SQLite 18% |
+| Cloud platforms | AWS 52%, Microsoft Azure 31%, Google Cloud 28% |
+| Education | Bachelor's degree 47%, Master's degree 23%, self-taught 15% |
+| Developer age | The report describes the majority as 25–44 |
+| Geography | The report highlights the United States, India, and Europe |
+| Web technologies | React.js and Node.js are described as prominent preferences |
+| Emerging-language interest | Rust, TypeScript, and Kotlin are highlighted |
+
+The project README also records scale indicators of 65,000+ survey responses, 185 countries, 25+ visualizations, 15+ analysis dimensions, and three dashboard views.
+
+**Evidence note:** these percentages and summary claims are retained from the repository's pre-existing lowercase readme.md. They are not independently recalculated in this documentation pass. The exact question filters, response denominators, and missing-response handling should be checked in Project_Report.pdf and the saved analysis notebooks before comparing these percentages with other survey summaries.
+
+### Existing visual deliverables
+
+The repository includes dashboard/report screenshots for language and database usage:
+
+![Top programming languages](image_1.png)
+
+![Languages developers want to learn or continue using](image_2.png)
+
+![Databases used by developers](image_3.png)
+
+![Most desired databases](image_4.png)
+
 ## Analysis Components
 
 - **Data collection:** API-based job/technology data collection exercises and source preparation.
