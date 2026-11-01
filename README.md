@@ -57,6 +57,8 @@ Open the notebooks from the repository root. Some collection and wrangling steps
 - Figures depend on filters, missing-value handling, and the survey question's response options.
 - Refresh the data and analysis before using the findings as current market guidance.
 
-## Author
+---
 
-Sai Datta Putta
+**Sai Datta Putta**
+
+[LinkedIn](https://www.linkedin.com/in/sai-datta-putta/)
